@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2547
+
+A plugin works with the help of the xml.vim(http://www.vim.org/scripts/script.php?script_id=1397).
+XSLT keywords may be accessed by its short cut,for example,under insert mode,insert the ",sty" will result in 
+<?xml version="1.0"?>
+<xsl:stylesheet
+	version="1.0"
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"&gt;
+
+</xsl:stylesheet>
+For more short cuts,check the head of the xsltassistant.vim.
